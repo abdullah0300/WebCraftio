@@ -373,13 +373,7 @@ h6 {
   margin-bottom: -120px;
 }
 
-/* For smaller devices */
-@media (max-width: 768px) {
-  #hero {
-    background: url("https://ik.imagekit.io/oh8gd3e9i/Webcraftio%20Website/WhatsApp%20Image%202024-10-15%20at%2017.59.39_68c59a1e.jpg?updatedAt=1729004326827") center center;
-    background-size: cover;
-  }
-}
+
 
 
 #hero:before {
