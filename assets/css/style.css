@@ -365,7 +365,7 @@ h6 {
 #hero {
   width: 100%;
   height: 60vh;
-  background: url("https://ik.imagekit.io/oh8gd3e9i/Webcraftio%20Website/webcraftio%20background.jpg?updatedAt=1728319260755") center center;
+  background: url("https://ik.imagekit.io/oh8gd3e9i/Webcraftio%20Website/Untitled%20design%20(9).png?updatedAt=1728996317001") center center;
   background-size: cover;
   position: relative;
   z-index: 1;
@@ -442,7 +442,21 @@ h6 {
   position: relative;
   z-index: 4;
 }
-
+.btn-get-started3 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  transition: 0.5s;
+  margin-left: -15x px;
+  padding: 8px 26px 8px 26px;
+  color: #ffffff;
+  background: #368fb1;
+  border-radius: 20px;
+  position: relative;
+  z-index: 4;
+}
 
 #hero .btn-get-started:hover {
   background: #368fb1;
